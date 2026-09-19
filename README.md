@@ -1,5 +1,4 @@
-# CodeAlpha_EmotionRecognition
-**CodeAlpha — Machine Learning Internship | Task 2**
+# Speech Emotion Recognition using a Hybrid CNN-LSTM Architecture
 
 ## Objective
 Recognize human emotions (neutral, calm, happy, sad, angry, fearful, disgust, surprised) from speech audio files using deep learning.
